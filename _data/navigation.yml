@@ -5,6 +5,8 @@ main:
   - title: "Curriculum Vitae"
     url: /Curriculum Vitae/
   - title: "Projects"
+    description:
     url: /Projects/
   - title: "Blog"
+    description: "Essays about topics I like writing about"
     url: /Blog/
