@@ -119,6 +119,7 @@ author:
   email            : telmar667@gmail.com
   links:
     - label: "Lausanne, Switzerland"
+      flag_image: "/assets/pictures/schweizer_flagge.jpg"
       icon: "fas fa-fw fa-location-dot"
       url: "https://maps.app.goo.gl/crXRFRsNs3xzTZJV8"
     - label: "Email"
