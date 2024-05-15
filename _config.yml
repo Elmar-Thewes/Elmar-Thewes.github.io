@@ -124,7 +124,7 @@ author:
       url: "https://maps.app.goo.gl/crXRFRsNs3xzTZJV8"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "telmar667@gmail.com"
+      # url: "telmar667@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
