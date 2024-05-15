@@ -115,9 +115,13 @@ author:
   name             : "Elmar Thewes"
   avatar           : "/assets/pictures/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Europe"
-  email            : telmar667@gmail.com
+  location         : #"Lausanne, Switzerland"
+  email            : #telmar667@gmail.com
   links:
+    - label: "Lausanne, Switzerland"
+      flag: "🇨🇭"
+      icon: "fas fa-fw fa-location-dot"
+      url: "https://maps.app.goo.gl/crXRFRsNs3xzTZJV8"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "telmar667@gmail.com"
