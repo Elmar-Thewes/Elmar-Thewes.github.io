@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Elmar Thewes"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/pictures/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Europe"
   email            : telmar667@gmail.com
