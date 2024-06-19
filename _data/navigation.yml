@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Curriculum Vitae"
-    url: /Curriculum Vitae/
+    url: /_data/Curriculum Vitae/
   - title: "Projects"
-    description:
-    url: /Projects/
+    description: "Just Projects"
+    url: /_data/Projects/
   - title: "Blog"
     description: "Essays about topics I like writing about"
-    url: /Blog/
+    url: /_data/Blog.md
