@@ -9,4 +9,4 @@ main:
     url: /_data/Projects/
   - title: "Blog"
     description: "Essays about topics I like writing about"
-    url: /_data/Blog/
+    url: /_pages/
