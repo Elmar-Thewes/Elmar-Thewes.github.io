@@ -320,6 +320,7 @@ defaults:
       path: ""
       type: posts
     values:
+      date_format: "%-d. %b, %Y"
       show_date: true
       layout: single
       author_profile: true
