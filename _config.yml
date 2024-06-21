@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "Elmar B. Thewes" #title in website head
-title_separator          : "|"
+title_separator          : ""
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Elmar Thewes"
 description              : "Geplant als portfolio Website für professionelle und freizeitliche Inhalte."
