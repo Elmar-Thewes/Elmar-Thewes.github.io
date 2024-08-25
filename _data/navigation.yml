@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about/  #url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://elmar-thewes.github.io/Elmar-Thewes.github.io/about/  #url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Curriculum Vitae"
     url: /_data/Curriculum Vitae/
   - title: "Projects"
