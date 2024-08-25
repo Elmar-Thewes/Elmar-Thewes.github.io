@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: https://elmar-thewes.github.io/about/  #url: https://mmistakes.github.io/minimal-mistakes/about/
-  #- title: "Curriculum Vitae"
-    #url: /_data/Curriculum Vitae/
-  #- title: "Projects"
-  #  description: "Just Projects"
-    #url: /_data/Projects/
- # - title: "Blog"
- #   description: "Essays about topics I like writing about"
-    #url: /_data/
+  - title: "Curriculum Vitae"
+    url: https://elmar-thewes.github.io/Curriculum Vitae/
+  - title: "Projects"
+    description: "Just Projects"
+    url: https://elmar-thewes.github.io/Projects/
+  - title: "Blog"
+    description: "Essays about topics I like writing about"
+    url: https://elmar-thewes.github.io/Blog/
