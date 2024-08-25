@@ -1,5 +1,6 @@
 ---
 enabled: true
+layout: cv
 permalink: /Curriculum Vitae/
 title: Curriculum Vitae
 nav: true
