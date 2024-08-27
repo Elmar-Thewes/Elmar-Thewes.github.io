@@ -21,32 +21,3 @@
       year: Sep '20 - Jul '23
       description:
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Caglar Gulcehre Lab for AI Research @ EPFL - Lausanne, Switzerland
-      year: Oct '23 - Present
-      
-- title: Awards and Honours
-  type: time_table
-  contents:
-    - title: Talent bursary, Alberta Machine Intelligence Institute
-      year: May '24
-      description:
-        - Bursary, valued at 2,750 CAD, awarded to talented academics for travelling to Edmonton, Alberta for the <a href="https://www.upperbound.ai/">Upper Bound conference</a>
-    
-
-- title: Extracurricular Activities
-  type: time_table
-  contents:
-    - title: Public Relations Manager
-      institution: EPFL Google Developer Student Club - Lausanne, Switzerland
-      year: Sep '22 - March '23
-      description:
-        - Bridging the gap between theory and practice by giving the students a platform to develop their projects and participate in workshops, seminars, hackathons, and more
-   
-- title: References
-  type: list
-  contents:  
-    - <b><a href="https://scholar.google.com/citations?user=Juo2Tk8AAAAJ">Dr. Stratis Skoulakis</a></b> |  EPFL
