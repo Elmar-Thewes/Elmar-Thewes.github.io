@@ -1,31 +1,5 @@
 ar- title: General Information
   type: map
-  contents:
-    - name: Full Name
-      value: Elmar Benedict Thewes
-    - name: Date of Birth
-      value: 6th September 2002
-    - name: Languages
-      value: English (C2), German (C2), Hungarian (B2), French (A2)
-      
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Machine Learning
-#      items:
-#        - Deep Reinforcement Learning
-#        - Hierarchical Reinforcement Learning
-#        - Graph Representational Learning
-#    - title: Planning algorithms
-- title: Research Interests
-  type: list
-  contents:
-    - Foundation Models - (specifically for Sequential Decision-Making)
-    - Large Language Models
-    - Deep Reinforcement Learning
-    - Multi-Task Learning
-
-
 
 - title: Experience
   type: time_table
