@@ -1,2 +1,15 @@
 - title: General Information
   type: map
+  contents:
+    - name: Full Name
+      value: Lars Chris Peter Maria Quaedvlieg
+    - name: Title
+      value: Research Intern & Research Assistant
+    - name: Date of Birth
+      value: 15th October 2001
+    - name: Languages
+      value: English (C2), Dutch (C2), German (B1), French (A2)
+    - name: Programming Languages
+      value: Python, Java, Flutter, SQL, MATLAB, R, C, C++, JavaScript, PHP
+    - name: Tools
+      value: Jax, Haiku, Optax, Flax, PyTorch, Hydra, Neptune
