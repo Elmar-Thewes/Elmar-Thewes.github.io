@@ -37,14 +37,7 @@
           contents:
             - (CS-503) Visual Intelligence
             - (CS-456) Reinforcement Learning
-            - (EE-452) Network Machine Learning
-            - (COM-490) Large-Scale Data Science For Real-World Data
-#            - (HUM-433) How People Learn II
-            - (MATH-413) Statistics for Data Science
-            - "(EE-556) Mathematics of Data: from Theory to Computation"
-            - (CS-430) Intelligent Agents
-            - (CS-433) Machine Learning
-#            - (HUM-432) How People Learn
+            
     - title: Exchange Year
       institution: <a href="https://www.epfl.ch/schools/sb/research/iphys/">École Polytechnique Fédérale de Lausanne</a> (EPFL) - Lausanne, Switzerland
       year: Sep '23 - Aug '24
@@ -53,14 +46,7 @@
           contents:
             - (CS-503) Visual Intelligence
             - (CS-456) Reinforcement Learning
-            - (EE-452) Network Machine Learning
-            - (COM-490) Large-Scale Data Science For Real-World Data
-#            - (HUM-433) How People Learn II
-            - (MATH-413) Statistics for Data Science
-            - "(EE-556) Mathematics of Data: from Theory to Computation"
-            - (CS-430) Intelligent Agents
-            - (CS-433) Machine Learning
-#            - (HUM-432) How People Learn
+            
     - title: BSc in Physics
       institution: <a href="https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/">Technische Universität Darmstadt</a> - Darmstadt, Germany
       year: Sep '20 - Jul '23
@@ -120,22 +106,12 @@
 - title: Extracurricular Activities
   type: time_table
   contents:
-    - title: Public Relations Manager
-      institution: EPFL Google Developer Student Club - Lausanne, Switzerland
-      year: Sep '22 - March '23
-      description:
-        - Bridging the gap between theory and practice by giving the students a platform to develop their projects and participate in workshops, seminars, hackathons, and more
-    - title: Student Representative
-      institution: Department of Advanced Computing Sciences - Maastricht, The Netherlands
-      year: Sep '20 - Sep '22
-      description:
-        - One of two student representatives of 800, responsible for raising students' issues, ensuring program quality by renewing study material, extending the curriculum by adding new courses, and looking into internal regulations of the bachelor program
+    
     - title: Youth Board Member
       institution: <a href="https://rhein-main.dlrg.de/"></a> - Wiesbaden, Germany
       year: Oct '21 - Jul '24
       description:
-        - Treasurer, secretary, and community manager at a department-wide study association comprised of 800 members. Organized educational and social events, and launched a series of on line sessions with academic and industry researchers
-    
+        - Treasurer, secretary, and community manager at a department-wide study association comprised of 800 members. Organized educational and social events, and launched a series of on line sessions with academic and industry researchers    
 
 - title: References
   type: list
