@@ -29,7 +29,7 @@ ar- title: General Information
   type: time_table
   contents:
     - title: MSc in Physics
-      institution: <a href="https://www.physik.tu-darmstadt.de/lehre_physik/studiengaenge/master_physik/index.de.jsp">Technische Universität Darmstadt</a> - Darmstadt, Germany
+      institution: <a href="https://www.physik.tu-darmstadt.de/lehre_physik/studiengaenge/master_physik/">Technische Universität Darmstadt</a> - Darmstadt, Germany
       year: Sep '23 - Present
       description:
         - 5.7/6.0 GPA
@@ -62,7 +62,7 @@ ar- title: General Information
             - (CS-433) Machine Learning
 #            - (HUM-432) How People Learn
     - title: BSc in Physics
-      institution: <a href="https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_178624.de.jsp">Technische Universität Darmstadt</a> - Darmstadt, Germany
+      institution: <a href="https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/">Technische Universität Darmstadt</a> - Darmstadt, Germany
       year: Sep '20 - Jul '23
       description:
         - Graduated summa cum laude, 9.5/10 GPA
