@@ -1,19 +1,12 @@
-- title: General Information
+ar- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Lars Chris Peter Maria Quaedvlieg
-    - name: Title
-      value: Research Intern & Research Assistant
+      value: Elmar Benedict Thewes
     - name: Date of Birth
-      value: 15th October 2001
+      value: 6th September 2002
     - name: Languages
-      value: English (C2), Dutch (C2), German (B1), French (A2)
-    - name: Programming Languages
-      value: Python, Java, Flutter, SQL, MATLAB, R, C, C++, JavaScript, PHP
-    - name: Tools
-      value: Jax, Haiku, Optax, Flax, PyTorch, Hydra, Neptune
-
+      value: English (C2), German (C2), Hungarian (B2), French (A2)
       
 #- title: Academic Interests
 #  type: nested_list
@@ -35,9 +28,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc in Data Science
-      institution: <a href="https://www.epfl.ch/education/master/programs/data-science/">École Polytechnique Fédérale de Lausanne</a> (EPFL) - Lausanne, Switzerland
-      year: Sep '22 - Present
+    - title: MSc in Physics
+      institution: <a href="https://www.physik.tu-darmstadt.de/lehre_physik/studiengaenge/master_physik/index.de.jsp">Technische Universität Darmstadt</a> - Darmstadt, Germany
+      year: Sep '23 - Present
       description:
         - 5.7/6.0 GPA
         - title: Relevant Courses
@@ -52,9 +45,25 @@
             - (CS-430) Intelligent Agents
             - (CS-433) Machine Learning
 #            - (HUM-432) How People Learn
-    - title: BSc in Data Science and Artificial Intelligence
-      institution: <a href="https://curriculum.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence">Maastricht University</a> - Maastricht, The Netherlands
-      year: Sep '19 - Jul '22
+    - title: Exchange Year
+      institution: <a href="https://www.epfl.ch/schools/sb/research/iphys/">École Polytechnique Fédérale de Lausanne</a> (EPFL) - Lausanne, Switzerland
+      year: Sep '23 - Aug '24
+      description:
+        - title: Relevant Courses
+          contents:
+            - (CS-503) Visual Intelligence
+            - (CS-456) Reinforcement Learning
+            - (EE-452) Network Machine Learning
+            - (COM-490) Large-Scale Data Science For Real-World Data
+#            - (HUM-433) How People Learn II
+            - (MATH-413) Statistics for Data Science
+            - "(EE-556) Mathematics of Data: from Theory to Computation"
+            - (CS-430) Intelligent Agents
+            - (CS-433) Machine Learning
+#            - (HUM-432) How People Learn
+    - title: BSc in Physics
+      institution: <a href="https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_178624.de.jsp">Technische Universität Darmstadt</a> - Darmstadt, Germany
+      year: Sep '20 - Jul '23
       description:
         - Graduated summa cum laude, 9.5/10 GPA
         - Ranked 1st out of 104 students within a similar cohort
